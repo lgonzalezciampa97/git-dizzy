@@ -3,8 +3,16 @@ body{
 }
 
 h1{
+    margin: 0 auto;
+    width: 200px;
+    background-color: aquamarine;
+    border-radius: 3px;
     color: blue;
     text-align: center;
     text-transform: uppercase;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
 }
 
